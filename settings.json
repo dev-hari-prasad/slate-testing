@@ -1,0 +1,9 @@
+{
+  "triggerId": "001",
+  "orgId": "demo-org",
+  "kbId": "no-kb",
+  "displayMode": "overlay",
+  "position": "bottom-center",
+  "theme": "system",
+  "pillWidth": "26vw"
+}

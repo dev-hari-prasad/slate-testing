@@ -4,6 +4,6 @@
   "kbId": "no-kb",
   "displayMode": "overlay",
   "position": "bottom-center",
-  "theme": "system",
+  "theme": "light",
   "pillWidth": "50vw"
 }

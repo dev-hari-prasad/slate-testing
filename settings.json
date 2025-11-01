@@ -2,7 +2,7 @@
   "triggerId": "002",
   "orgId": "demo-org",
   "kbId": "no-kb",
-  "displayMode": "overlay",
+  "displayMode": "fullscreen",
   "position": "bottom-center",
   "theme": "light",
   "pillWidth": "50vw"
